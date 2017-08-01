@@ -1,3 +1,5 @@
 # IDEAworkspace
 bup
-fix bug
+this is a bug
+i fix it
+
